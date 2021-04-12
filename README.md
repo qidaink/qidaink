@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @qidaink
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+qidaink/qidaink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=qidaink&show_icons=true&hide_border=true&include_all_commits=true" align="center">
+
